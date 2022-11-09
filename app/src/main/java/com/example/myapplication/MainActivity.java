@@ -28,5 +28,6 @@ public class MainActivity extends AppCompatActivity {
         glasha.breed = "Don";
         glasha.color = "brown";
         glasha.talk();
+
     }
 }

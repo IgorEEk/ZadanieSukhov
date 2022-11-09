@@ -18,6 +18,7 @@ public class Cat {
         this.name = name;
         this.breed = breed;
         this.color = color;
+
     }
 
 
